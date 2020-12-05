@@ -10,5 +10,11 @@ public class RestAssuredTest {
 		System.out.println("TestCase1");
 		System.out.println("TestCase2");
 	}
+	
+	public void Test2() {
+
+		System.out.println("TestCase1");
+
+	}
 
 }
