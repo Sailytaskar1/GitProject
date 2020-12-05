@@ -16,5 +16,17 @@ public class RestAssuredTest {
 		System.out.println("TestCase1");
 
 	}
+	
+	//Architect
+		public void Test3() {
+
+			System.out.println("TestCase3");
+
+		}
+		public void Test4() {
+
+			System.out.println("TestCase4");
+
+		}
 
 }
