@@ -8,7 +8,7 @@ public class SeleniumTest {
 	public void Test1() {
 		
 		System.out.println("TestCase1");
-		
+		System.out.println("TestCase2");
 	}
 
 }

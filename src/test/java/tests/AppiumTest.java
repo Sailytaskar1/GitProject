@@ -7,7 +7,8 @@ public class AppiumTest {
 	@Test
 	public void Test1() {
 		
-		System.out.println("");
+		System.out.println("TestCase1");
+		System.out.println("TestCase2");
 		
 	}
 
