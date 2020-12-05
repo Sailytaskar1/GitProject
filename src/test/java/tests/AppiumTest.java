@@ -30,5 +30,13 @@ public class AppiumTest {
 
 	}
 	
+	//Architect 2nd change
+	
+	public void Test5() {
+
+		System.out.println("TestCase5");
+
+	}
+	
 
 }
